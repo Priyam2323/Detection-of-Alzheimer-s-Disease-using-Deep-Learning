@@ -10,12 +10,15 @@ Some basic preprocessing steps of Realignment, Slice Timing Correction and Norma
 •	After this cropping of the brain was done to remove the redundant areas and the images were converted to .jpg format for easy usage.
 # CNN Architectures:
 The data has been splitted into 70% for training, 15% for validation and 15% for testing. After this famous CNN models have been applied for detection purpose - 
-	GoogleNet96.ipynb is the file which consists of the final implementation of the project where GoogleNet is used and final output is shown with accuracy 96.81%.
-	Resnet50.ipynb consists of the final implementation of the project where ResNet50  is used and final output is shown with accuracy 96.13%.
-	Squeezenet_93.ipynb consists of the final implementation of the project where ResNet50  is used and final output is shown with accuracy 93.18%.
+
+* GoogleNet96.ipynb is the file which consists of the final implementation of the project where GoogleNet is used and final output is shown with accuracy 96.81%.
+*	Resnet50.ipynb consists of the final implementation of the project where ResNet50  is used and final output is shown with accuracy 96.13%.
+*	Squeezenet_93.ipynb consists of the final implementation of the project where ResNet50  is used and final output is shown with accuracy 93.18%.
+
 Computer specifications that was used are : 
 Processor : Intel®Xeon®Silver 4108 CPU @ 1.80GHz
 Installed RAM :8.00GB and 64 bit Operating System.
+
 Software used for this is - Anaconda Individual Edition 2020.11 and all the code has been written on Jupyter notebook in Python.
 
 I will happy to see contributions!
