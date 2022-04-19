@@ -20,13 +20,13 @@ Processor : Intel®Xeon®Silver 4108 CPU @ 1.80GHz
 Installed RAM :8.00GB and 64 bit Operating System.
 # Results:
 After executing our training experiments, GoogleNet attained the best of all accuracy of 96.81 percent. A track of the loss in the training,
-testing & validation dataset during process of learning was also kept, in addition to the model's accuracy.
+testing & validation dataset during process of learning was also kept, in addition to the model's accuracy. The result of GoogleNet model is shows as follows-
 ![download](https://user-images.githubusercontent.com/68949970/164007718-7f629e3f-7dc7-4e8c-9fb3-aad9587aebb8.png)
 ![download (1)](https://user-images.githubusercontent.com/68949970/164008254-57132513-d27e-4df5-b253-d4dd92d3b306.png)
 
 
 Software used for this is - Anaconda Individual Edition 2020.11 and all the code has been written on Jupyter notebook in Python.
 
-I will happy to see contributions!
+I will be happy to see contributions!
 Thankyou.
 
